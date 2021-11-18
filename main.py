@@ -61,4 +61,4 @@ def medians(nums1, nums2):
         #calculate median
     return actmedian(left_digit_shorter, right_digit_shorter, left_digit_longer, right_digit_longer, shorter_nums, longer_nums)
 
-print(medians([1,2,],[3,4]))
+
